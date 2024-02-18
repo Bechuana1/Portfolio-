@@ -3,3 +3,6 @@
 
 ## Color and Theme 
  - made a lolor pallete
+
+## wire frame
+ - high fidelity 
